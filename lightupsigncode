@@ -1,0 +1,14 @@
+#define R 5
+#define G 3
+#define B 6
+#define SPEED 5
+
+void setup() {
+  pinMode(R,OUTPUT);
+  pinMode(G,OUTPUT);
+  pinMode(B,OUTPUT);
+}
+
+void loop() {
+  int r, g, b;
+}
